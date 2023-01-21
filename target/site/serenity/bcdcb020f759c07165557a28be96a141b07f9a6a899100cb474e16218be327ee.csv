@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing data features on virgingames Application","Check if the virgingames application can be accessed by users","SUCCESS","2023-01-19T20:28:36.110Z[Europe/London]","0.0","7.24"
+"Testing data features on virgingames Application","as a user I want to verify the  data","SUCCESS","2023-01-19T20:28:47.520Z[Europe/London]","0.0","1.19"
